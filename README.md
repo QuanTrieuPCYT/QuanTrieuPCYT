@@ -1,2 +1,2 @@
-### Hi there 👋
-## Tech boi loves Minecraft, likes helping people :D
+## Hi there 👋
+### Tech boi loves Minecraft, likes helping people :D
