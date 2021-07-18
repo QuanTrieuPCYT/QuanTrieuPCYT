@@ -1,2 +1,1 @@
-# Hi there 👋
-### I play Minecraft and do tech stuffs. And I like helping people :D
+https://capsule-render.vercel.app/api?type=waving&height=200&text=QuanTrieuPCYT&fontAlign=80&fontAlignY=40&color=gradient
