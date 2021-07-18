@@ -12,7 +12,8 @@ I'm Quân (aka qtpctechhxd/QuanTrieuPCYT). I'm a random Vietnamese 15-year old b
 * 🖥⠀I'm currently using a Hackintosh as my main device 😀 [(EFI here)](https://github.com/QuanTrieuPCYT/HPHamar_Hackintosh)
 * 🌐⠀My website: [webgay.ddns.net](https://webgay.ddns.net)
 * 📧⠀Email: <a href="mailto:quantrieucomputer1210@gmail.com">quantrieucomputer1210@gmail.com</a><br>
-For more info about my devices go [here](https://webgay.ddns.net/devices)
+
+**For more info about my devices go [here](https://webgay.ddns.net/devices)**
 ***
 ## GitHub Stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanTrieuPCYT&theme=tokyonight&hide_border=true)](https://webgay.ddns.net)
