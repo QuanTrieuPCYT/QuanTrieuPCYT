@@ -22,6 +22,7 @@ Discord: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-squa
 Facebook: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](https://facebook.com/qtpctechhxd)
 ***
 
-<br>
+
+
 ## And thank you for checking out my profile!
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
