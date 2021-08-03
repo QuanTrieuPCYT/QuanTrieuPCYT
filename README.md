@@ -11,7 +11,7 @@ I'm Quân (aka qtpctechhxd/QuanTrieuPCYT). I'm a random Vietnamese 15-year old b
 * 📍⠀I live in Hanoi, Vietnam
 * 🏫⠀I'm currently a 10th grade student at [**HES High School**](https://www.facebook.com/HESHighSchool)
 * 🖥⠀I'm currently using a Hackintosh as my main device 😀⠀[**(EFI here)**](https://github.com/QuanTrieuPCYT/HPHamar_Hackintosh)
-* 🌐⠀My website: [**webgay.ddns.net**](https://webgay.ddns.net)
+* 🌐⠀My website: [**qtpc.tech**](https://qtpc.tech)
 * 📧⠀Email: <a href="mailto:quantrieucomputer1210@gmail.com">**quantrieucomputer1210@gmail.com**</a><br>
 
 **For more info about my devices go [here](https://webgay.ddns.net/devices)**
