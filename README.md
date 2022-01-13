@@ -19,7 +19,7 @@ I'm Quân (aka qtpctechhxd/QuanTrieuPCYT). I'm a random Vietnamese 15-year old b
 ## GitHub Stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanTrieuPCYT&theme=tokyonight&hide_border=true)](https://qtpc.tech)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanTrieuPCYT&theme=tokyonight&layout=compact)](https://qtpc.tech)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanTrieuPCYT&theme=tokyonight&layout=compact&hide_border=true)](https://qtpc.tech)
 ***
 ## Links:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white "Discord")](https://discord.com/users/699512154004652093)<br> [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](https://facebook.com/qtpctechhxd)
