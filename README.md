@@ -7,7 +7,7 @@ I'm Quân (aka qtpctechhxd/QuanTrieuPCYT). I'm a random Vietnamese 16-year old b
 ***
 ## Some infos about me:
 * 🎮⠀I play Minecraft and do tech stuff. My MC ign is [**QuanTrieuPCYT**](https://namemc.com/QuanTrieuPCYT) (Java and Bedrock)
-* 🕹⠀I'm the owner of small Minecraft network - [**ThiccMC**](https://qtpc.tech/discord)
+* 🕹⠀I'm the owner of a small Minecraft network - [**ThiccMC**](https://qtpc.tech/discord)
 * 📍⠀I live in Hanoi, Vietnam
 * 🏫⠀I'm currently a 10th grade student at [**HES High School**](https://www.facebook.com/HESHighSchool)
 * 🖥⠀I'm currently using a Hackintosh as my main device 😀⠀[**(EFI here)**](https://github.com/QuanTrieuPCYT/ASRock-B560M-Pro4_Hackintosh)
