@@ -3,13 +3,13 @@
 --->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20there%20%F0%9F%91%8B&fontSize=90)
 # Welcome to my profile 😎!
-I'm Quân (aka qtpctechhxd/QuanTrieuPCYT), a random 16-year old Vietnamese guy who play Minecraft and do tech stuff!
+I'm Quân (aka qtpctechhxd/QuanTrieuPCYT), a 16-year old Vietnamese who likes tinkering with tech things.
 ***
 ## Some infos about me:
 * 🎮⠀I play Minecraft and do tech stuff. My MC ign is [**QuanTrieuPCYT**](https://namemc.com/QuanTrieuPCYT) (Java and Bedrock)
 * 🕹⠀I'm the owner of a small Minecraft network - [**ThiccMC**](https://qtpc.tech/discord)
 * 📍⠀I live in Hanoi, Vietnam
-* 🏫⠀I'm currently a 10th grade student at [**HES High School**](https://www.facebook.com/HESHighSchool)
+* 🏫⠀I'm currently a 11th grade student at [**HES High School**](https://www.facebook.com/HESHighSchool)
 * 🖥⠀I'm currently using a Hackintosh as my main device 😀⠀[**(EFI here)**](https://github.com/QuanTrieuPCYT/ASRock-B560M-Pro4_Hackintosh)
 * 🌐⠀My website: [**qtpc.tech**](https://qtpc.tech)
 * 📧⠀Email: <a href="admin@qtpc.tech">**admin@qtpc.tech**</a><br>
