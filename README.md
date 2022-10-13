@@ -21,6 +21,9 @@ I'm Quân (aka qtpctechhxd/QuanTrieuPCYT), a 16-year old Vietnamese who likes ti
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanTrieuPCYT&theme=tokyonight&layout=compact&hide_border=true)](https://qtpc.tech)
 ***
+## osu! Stats
+[![osu! stats](https://osu-stats-signature.vercel.app/card?user=QuanTrieuPCYT&mode=std&lang=en&animation=true)](https://osu.ppy.sh/users/QuanTrieuPCYT)
+***
 ## Links:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white "Discord")](https://discord.com/users/699512154004652093)<br> [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](https://facebook.com/qtpctechhxd)
 ***
