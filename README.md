@@ -11,7 +11,7 @@ I'm a tech nerd who has the aim of acquiring acknowledgements in the tech field 
 * 🎮⠀I play Minecraft and do tech stuff. My MC ign is [**QuanTrieuPCYT**](https://namemc.com/QuanTrieuPCYT) (Java and Bedrock)
 * 🕹⠀I'm the owner of a small Minecraft network - [**ThiccMC**](https://qtpc.tech/discord)
 * 📍⠀I live in Hanoi, Vietnam
-* 🏫⠀I'm currently a 11th grade student at [**HES High School**](https://www.facebook.com/HESHighSchool)
+* 🏫⠀I'm currently a 12th grade student at [**HES High School**](https://www.facebook.com/HESHighSchool)
 * 🖥⠀Triplebooting Windows, macOS and Linux on my main rig [**(OpenCore EFI here)**](https://github.com/QuanTrieuPCYT/ASRock-B560M-Pro4_Hackintosh)
 * 🌐⠀My website: [**qtpc.tech**](https://qtpc.tech)
 * 📧⠀Email: <a href="admin@qtpc.tech">**admin@qtpc.tech**</a><br>
