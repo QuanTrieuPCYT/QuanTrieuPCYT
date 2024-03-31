@@ -8,6 +8,7 @@ I'm Quân (aka qtpctechhxd/QuanTrieuPCYT), a 17-year old Vietnamese.
 I'm a tech nerd who has the aim of acquiring acknowledgements in the tech field of life
 ***
 ## Some infos about me:
+* 🎂⠀My birthday (in the form of `DDMM`) occurs at the 3455th digit of π. It occurs for a total of 19953 times in the first 200M digits of π.
 * 🎮⠀I play Minecraft and do tech stuff. My MC ign is [**QuanTrieuPCYT**](https://namemc.com/QuanTrieuPCYT) (Java and Bedrock)
 * 🕹⠀I'm the owner of a small Minecraft network - [**ThiccMC**](https://qtpc.tech/discord)
 * 📍⠀I live in Hanoi, Vietnam
