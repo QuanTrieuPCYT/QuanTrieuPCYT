@@ -3,7 +3,7 @@
 --->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20there%20%F0%9F%91%8B&fontSize=90)
 # Welcome to my profile 😎!
-I'm Quân (aka qtpctechhxd/QuanTrieuPCYT), a 18-year old Vietnamese.
+I'm Quân (aka qtpctechhxd/QuanTrieuPCYT), an 18-year old Vietnamese.
 
 I'm a tech nerd who has the aim of acquiring acknowledgements in the tech field of life
 ***
