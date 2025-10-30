@@ -3,7 +3,7 @@
 --->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20there%20%F0%9F%91%8B&fontSize=90)
 # Welcome to my profile 😎!
-I'm Quân (aka qtpctechhxd/QuanTrieuPCYT), an 18-year old Vietnamese.
+I'm Quân (aka qtpctechhxd/QuanTrieuPCYT), an 19-year old Vietnamese.
 
 I'm a tech nerd who has the aim of acquiring acknowledgements in the tech field of life
 ***
@@ -12,7 +12,7 @@ I'm a tech nerd who has the aim of acquiring acknowledgements in the tech field 
 * 🎮⠀I play Minecraft and do tech stuff. My MC ign is [**QuanTrieuPCYT**](https://namemc.com/QuanTrieuPCYT) (Java and Bedrock)
 * 🕹⠀I used to run a small Minecraft network - [**ThiccMC**](https://qtpc.tech/discord). It was fun while it lasted.
 * 📍⠀I live in Hanoi, Vietnam
-* 🏫⠀Currently a first-year @ [**CMC University**](https://cmc-u.edu.vn/en/cmc-university/)
+* 🏫⠀Currently a second-year @ [**CMC University**](https://cmc-u.edu.vn/en/cmc-university/)
 * 💻⠀Daily-driving a MacBook Pro 14-inch (2021) with 32GB LPDDR5 ⚡️
 * 🖥⠀Triplebooting Windows, macOS and Linux on my desktop [**(OpenCore EFI here)**](https://github.com/QuanTrieuPCYT/ASRock-B560M-Pro4_Hackintosh)
 * 🌐⠀My website: [**qtpc.tech**](https://qtpc.tech)
