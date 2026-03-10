@@ -21,9 +21,9 @@ I'm a tech nerd who has the aim of acquiring acknowledgements in the tech field 
 **For more info about my devices go [here](https://qtpc.tech/devices)**
 ***
 ## GitHub Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanTrieuPCYT&theme=tokyonight&hide_border=true)](https://qtpc.tech)
+[![GitHub stats](./profile/stats.svg)](https://qtpc.tech)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanTrieuPCYT&theme=tokyonight&layout=compact&hide_border=true)](https://qtpc.tech)
+[![Top Languages](./profile/top-langs.svg)](https://qtpc.tech)
 ***
 ## osu! Stats
 [![osu! stats](https://osu-sig.s23.moe/card?user=QuanTrieuPCYT&mode=std&lang=en&animation=true)](https://osu.ppy.sh/users/QuanTrieuPCYT)
