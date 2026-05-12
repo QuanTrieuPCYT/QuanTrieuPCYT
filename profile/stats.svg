@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">QuanTrieuPCYT's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 160, Total Commits  (last year) : 373, Total PRs: 44, Total Issues: 42, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 161, Total Commits  (last year) : 374, Total PRs: 44, Total Issues: 42, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 98.16231718694848;
+        stroke-dashoffset: 98.02655134914858;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >160</text>
+      >161</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >373</text>
+      >374</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
