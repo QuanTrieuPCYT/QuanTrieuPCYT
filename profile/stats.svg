@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">QuanTrieuPCYT's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 165, Total Commits  (last year) : 386, Total PRs: 50, Total Issues: 42, Contributed to (last year): 14</desc>
+        <title id="titleId">QuanTrieuPCYT's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 166, Total Commits  (last year) : 388, Total PRs: 50, Total Issues: 43, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 94.44638382075703;
+        stroke-dashoffset: 94.09801731968707;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B+
+          A-
         </text>
       
         </g>
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >165</text>
+      >166</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >386</text>
+      >388</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >42</text>
+      >43</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >14</text>
+      >15</text>
     </g>
   </g>
     </svg>
